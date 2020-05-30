@@ -1,12 +1,6 @@
 # ML-DevOps
 
-The reason why there is so hype in Machine Learning is because it enables a machine to analyse and take decisions.
-
-But, have we ever thought what if make the machine improve itself, making it more accurate by itself ???..
-
-This project is exactly the same....This project will actually take the model made by the user and increase its accuracy...
-
-<h2>But how does it do that ???? </h2>
+MLOps (a compound of “machine learning” and “operations”) is a practice for collaboration and communication between data scientists and operations professionals to help manage production ML (or deep learning) lifecycle.
 
 <h2>This is the integration of ML and DevOps forming MLOPs</h2>
 
